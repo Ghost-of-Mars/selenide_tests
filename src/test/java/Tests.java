@@ -52,7 +52,7 @@ public class Tests {
         //sleep(5000);
     }
 
-    //some chanta1111
+    //some chantarta
     //   Запрограммируйте Drag&Drop с помощью Selenide.actions()
     // - Откройте https://the-internet.herokuapp.com/drag_and_drop
     // - Перенесите прямоугольник А на место В
