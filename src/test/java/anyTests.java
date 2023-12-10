@@ -1,11 +1,10 @@
-import com.codeborne.selenide.DragAndDropOptions;
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.DragAndDropOptions.to;
 import static com.codeborne.selenide.Selenide.*;
 
-public class Tests {
+public class anyTests {
 
 
 //    @Test
@@ -58,5 +57,7 @@ public class Tests {
     // - Перенесите прямоугольник А на место В
     // - Проверьте, что прямоугольники действительно поменялись
     // - В Selenide есть команда $(element).dragAndDrop($(to-element)), проверьте работает ли тест, если использовать её вместо actions()
+
+
 
 }
