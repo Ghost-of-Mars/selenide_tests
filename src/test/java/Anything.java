@@ -4,7 +4,7 @@ import static com.codeborne.selenide.Condition.*;
 import static com.codeborne.selenide.DragAndDropOptions.to;
 import static com.codeborne.selenide.Selenide.*;
 
-public class anyTests {
+public class Anything {
 
 
 //    @Test
