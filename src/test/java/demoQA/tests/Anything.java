@@ -1,3 +1,5 @@
+package demoQA.tests;
+
 import org.junit.jupiter.api.Test;
 
 import static com.codeborne.selenide.Condition.*;

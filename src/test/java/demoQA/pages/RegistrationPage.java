@@ -1,7 +1,7 @@
-package pages;
+package demoQA.pages;
 
 import com.codeborne.selenide.SelenideElement;
-import pages.components.Calendar;
+import demoQA.components.Calendar;
 
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;

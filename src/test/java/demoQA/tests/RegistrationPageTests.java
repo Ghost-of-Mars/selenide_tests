@@ -1,8 +1,21 @@
-import org.junit.jupiter.api.Test;
+package demoQA.tests;
+
+import org.junit.jupiter.api.*;
 
 
 public class RegistrationPageTests extends TestBase {
 
+    @BeforeEach
+    void beforeEach() {
+        System.out.println("Start");
+    }
+    @AfterEach
+    void afterEach() {
+        System.out.println("End");
+    }
+
+    @Tag("Blocker")
+    @DisplayName("Проверка регистрации нового юзера с заполнением всех полей")
     @Test
     void test() {
 

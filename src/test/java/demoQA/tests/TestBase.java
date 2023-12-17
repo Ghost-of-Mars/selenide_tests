@@ -1,6 +1,9 @@
+package demoQA.tests;
+
 import com.codeborne.selenide.Configuration;
+import demoQA.pages.RegistrationPage;
+import demoQA.pages.SubmittingForm;
 import org.junit.jupiter.api.BeforeAll;
-import pages.*;
 
 public class TestBase {
     RegistrationPage registrationPage = new RegistrationPage();
