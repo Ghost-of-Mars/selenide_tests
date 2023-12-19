@@ -1,0 +1,10 @@
+{
+	"firstName": "Antony",
+	"lastName": "Markov",
+	"Hobbies": {
+		"books": "fantasy",
+		"sport": "shooting"
+	},
+	"married": false,
+	"age": 27
+}
